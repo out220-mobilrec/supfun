@@ -1,0 +1,33 @@
+
+> sup-fun-server@0.1.0 start
+> nest start
+
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +8ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +2ms[39m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [37mSTART[0m [37mTRANSACTION[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [37m"information_schema"[0m[37m.[0m[37m"tables"[0m [94mWHERE[0m [37m"table_schema"[0m [37m=[0m [37m'public'[0m [94mAND[0m [37m"table_name"[0m [37m=[0m [37m'typeorm_metadata'[0m
+[90m[4mquery:[24m[39m [94mCOMMIT[0m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +82ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmCoreModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUsersModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWaterbodiesModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mHealthController {/api/health}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/health, GET} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUsersController {/api/users}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mWaterbodiesController {/api/waterbodies}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies/nearby, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m
+[32m[Nest] 29412  - [39m16.09.2026, 12:05:47 [32m    LOG[39m [38;5;3m[bootstrap] [39m[32mSUP FUN server is running on http://localhost:3007[39m

@@ -1,0 +1,102 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+**/dist/
+build/
+**/build/
+coverage/
+**/coverage/
+
+# Environment / secrets (keep examples)
+.env
+.env.*
+!.env.example
+!.env.*.example
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.*.example
+
+# Logs & runtime
+*.log
+logs/
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Uploads / local data
+uploads/
+**/uploads/
+
+# Flutter / Dart (root-level artifacts)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+**/doc/api/
+*.iml
+*.ipr
+*.iws
+
+# Android/iOS local
+**/android/local.properties
+**/android/.gradle/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/ios/.symlinks/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Flutter SDK bundled in workspace (separate repo)
+flutter/
+
+# Database dumps & large archives / binaries
+*.sql
+*.dump
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Windows reserved / junk
+nul
+NUL
+
+# Local artifacts / reports
+*.bak
+*.backup
+*.tmp
+ses_*.json
+*_run.txt
+*_out.txt
+analyze*.txt
+analyze*.log
+buildweb.log
+db_list.txt
+final-*.json
+project-*.json
+android-and-ios-app-development-with-backend-*.json
+SUP-FUN-STATUS-REPORT.md
+next-phase-plan.md
+build-monitoring-guide.md
+
+# Local test tokens / secrets dumps
+.test-token
+**/.test-token
+*.token
+tokens.local*

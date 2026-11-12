@@ -1,0 +1,5 @@
+[96msrc/app.module.ts[0m:[93m22[0m:[93m7[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'entities' does not exist in type 'TypeOrmModuleAsyncOptions'.
+
+[7m22[0m       entities: [User, WaterBody],
+[7m  [0m [91m      ~~~~~~~~[0m
+

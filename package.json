@@ -1,0 +1,18 @@
+{
+  "name": "sup-fun",
+  "version": "0.5.0",
+  "private": true,
+  "description": "SUP FUN — корневые скрипты запуска (backend + web). Каждый пакет живёт в своей папке со своим package.json.",
+  "scripts": {
+    "dev": "chcp 65001 >nul && node scripts/dev.js",
+    "dev:server": "npm --prefix server run start:watch",
+    "dev:web": "npm --prefix web run dev",
+    "build": "npm --prefix server run build && npm --prefix web run build",
+    "build:server": "npm --prefix server run build",
+    "build:web": "npm --prefix web run build",
+    "start:server": "npm --prefix server run start",
+    "setup": "npm --prefix server install && npm --prefix web install",
+    "smoke:tracks-staff": "node server/scripts/smoke-tracks-staff.js",
+    "smoke:track-points": "node server/scripts/smoke-track-points.js"
+  }
+}

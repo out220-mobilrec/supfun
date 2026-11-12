@@ -1,0 +1,5 @@
+[96msrc/main.ts[0m:[93m22[0m:[93m7[0m - [91merror[0m[90m TS2339: [0mProperty 'options' does not exist on type 'INestApplication<any>'.
+
+[7m22[0m   app.options.logger = new Logger('app');
+[7m  [0m [91m      ~~~~~~~[0m
+

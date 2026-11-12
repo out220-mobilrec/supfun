@@ -1,0 +1,83 @@
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +11ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +28ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +160ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmCoreModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWaterbodiesModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUsersModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mFriendsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMessagesModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mGamificationModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mEventsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTracksModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mHealthController {/api/health}:[39m[38;5;3m +4ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/health, GET} route[39m[38;5;3m +3ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUsersController {/api/users}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/me, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/me, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/me, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mWaterbodiesController {/api/waterbodies}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies/nearby, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/waterbodies, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/api/auth}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/auth/register, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/auth/login, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mEventsController {/api/events}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/nearby, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/mine/:status, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id/join, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id/participants, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mGamificationController {/api/gamification}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/gamification/me, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/gamification/points, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/gamification/achievements, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mTracksController {/api/tracks}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks/mine, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks/:id, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks/:id/points, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks/:id/complete, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks/:id/publish, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/tracks/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mFriendsController {/api/friends}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends/requests/incoming, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends/requests/outgoing, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends/requests, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends/requests/:id/accept, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends/requests/:id/reject, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends/requests/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/friends/:userId, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mMessagesController {/api/conversations}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations/direct, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations/:id/messages, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations/:id/messages, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations/:id/read, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/conversations/:id/participants, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 36272  - [39m17.09.2026, 11:28:48 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m

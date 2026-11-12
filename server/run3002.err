@@ -1,0 +1,119 @@
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:10 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (1)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:13 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (2)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:16 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (3)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:19 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (4)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:22 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (5)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:25 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (6)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:28 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (7)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:31 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (8)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:34 [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (9)...[39m
+MissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\driver\DriverFactory.js:72:23)
+    at new DataSource (C:\Users\User\Desktop\sup3\server\node_modules\typeorm\data-source\DataSource.js:57:59)
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:170:27
+    at C:\Users\User\Desktop\sup3\server\node_modules\@nestjs\typeorm\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\observable\defer.js:8:31)
+    at Observable._trySubscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:41:25)
+    at C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\util\errorContext.js:22:9)
+    at Observable.subscribe (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\Observable.js:26:24)
+    at subscribeForRetryWhen (C:\Users\User\Desktop\sup3\server\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js:14:31)
+[31m[Nest] 1864  - [39m16.09.2026, 11:45:34 [31m  ERROR[39m [38;5;3m[ExceptionHandler] [39mMissingDriverError: Wrong driver: "undefined" given. Supported drivers are: "aurora-mysql", "aurora-postgres", "better-sqlite3", "capacitor", "cockroachdb", "cordova", "expo", "mariadb", "mongodb", "mssql", "mysql", "nativescript", "oracle", "postgres", "react-native", "sap", "sqlite", "sqljs", "spanner".
+    at DriverFactory.create [90m(C:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mtypeorm[24m\driver\DriverFactory.js:72:23[90m)[39m
+    at new DataSource [90m(C:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mtypeorm[24m\data-source\DataSource.js:57:59[90m)[39m
+    at [90mC:\Users\User\Desktop\sup3\server\[39mnode_modules\[4m@nestjs\typeorm[24m\dist\typeorm-core.module.js:170:27
+    at [90mC:\Users\User\Desktop\sup3\server\[39mnode_modules\[4m@nestjs\typeorm[24m\dist\typeorm-core.module.js:174:36
+    at Observable._subscribe [90m(C:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mrxjs[24m\dist\cjs\internal\observable\defer.js:8:31[90m)[39m
+    at Observable._trySubscribe [90m(C:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mrxjs[24m\dist\cjs\internal\Observable.js:41:25[90m)[39m
+    at [90mC:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mrxjs[24m\dist\cjs\internal\Observable.js:35:31
+    at Object.errorContext [90m(C:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mrxjs[24m\dist\cjs\internal\util\errorContext.js:22:9[90m)[39m
+    at Observable.subscribe [90m(C:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mrxjs[24m\dist\cjs\internal\Observable.js:26:24[90m)[39m
+    at subscribeForRetryWhen [90m(C:\Users\User\Desktop\sup3\server\[39mnode_modules\[4mrxjs[24m\dist\cjs\internal\operators\retryWhen.js:14:31[90m)[39m
